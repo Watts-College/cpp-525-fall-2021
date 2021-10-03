@@ -14,11 +14,11 @@ info:
  course_number: CPP 525 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/100993'
- course_start_end_dates: June 30th to August 10th, 2021 
+ course_start_end_dates: October 13th to December 3rd, 2021 
  course_prerequisites: CPP 523 and CPP 526
  class_meets_when:  Asynchronous  
  class_meets_where:  ''
- review_sessions_when: Thursdays at 7pm 
+ review_sessions_when: Thursdays at 7:30pm 
  review_sessions_where: 'https://asu.zoom.us/j/6829300585'
  discussion_board_url: 'https://watts-college.github.io/cpp-525-fall-2021/help/'
 
@@ -203,18 +203,37 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [Canvas shell](https://canvas.asu.edu). 
 
-Please post lab questions on the [Get Help](/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
+Please post lab questions on the [Get Help](/help/) page on this site, schedule individual office hours by emailing the instructor directly instead of using the Canvas system. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
 
-# I. Student Learning Environment: Accommodations
+# I. Student Learning Environment & Accommodations
 
 **Disability Accommodations:**  Students should be fully aware that the Arizona State University, the MA in EMHS program, and all program course instructors are committed to providing reasonable accommodation and access to programs and services to persons with disabilities. Students with disabilities who wish to seek academic accommodations must contact the ASU Disability Resources Center directly.  Information on the Center&#39;s procedures, resources and how to contact its staff can be found here: [https://eoss.asu.edu/drc/](https://eoss.asu.edu/drc/).  The Disability Resources Center is responsible for reviewing any student&#39;s requests; once that review has taken place, the Center will provide the student with appropriate information on academic accommodations which in turn will be provided to the course instructor.
 
 **Religious accommodations:** Students will not be penalized for missing an assignment due solely to a religious holiday/observance, but as this class operates with a fairly flexible schedule, all efforts should be made to complete work within the required timeframe. If this is not possible, students must notify the instructor as far in advance as possible in order to make an alternative arrangement.
 
 **Military Accommodations:** A student who is a member of the National Guard, Reserve, or other branch of the armed forces and is unable to complete classes because of military activation may request complete or partial unrestricted administrative withdrawals or incompletes depending on the timing of the activation. For more information see ASU policy [USI 201-18](http://www.asu.edu/aad/manuals/usi).
+
+**Sexual Discrimination** Prohibition Against Discrimination, Harassment, and Retaliation", including the fact that the instructor is a mandated reporter and therefore obligated to report any information regarding alleged acts of sexual discrimination. 
+
+
+# J. Computer Requirements
+
+**Computer System:** Windows or Macintosh desktop or laptop computer purchased within the last 5 years. Chromebooks and mobile devices will not provide full access to ASU’s online courses.
+**Operating System:** Windows-based computers must be running Windows 10 or newer. Macintosh computers must be running OS 10.13 (High Sierra) or higher
+**Required Software:** Microsoft Office 365 (available for all students at ASU); Adobe Acrobat Reader DC (free)
+**Web Browser:** Use only a recent version of Firefox or Chrome. Students are also advised to have both browsers installed on their computer. Safari and Edge have known compatibility issues with Canvas.
+**Internet Connection:** Courses are best viewed with high-speed internet and a reliable internet connection. 
+**Speakers and a microphone:** Built-in, USB plug-in, or wireless Bluetooth 
+**Webcam:** Built-in or USB plug-in
+**Software:** Most recent version of R and RStudio
+
+**Need Help?** Students needing help with technical issues can contact a 24/7 live chat service at contact.asu.edu or My ASU Service Center for help.
+
+# K. Workload Expectations 
+The Arizona Board of Regents, the governing board for ASU, NAU, and the U of A, has a policy for how much time students should invest in their courses: “A minimum of 45 hours of work by each student is required for each unit of credit.” Therefore, in a 3-credit course, students should expect to invest 45 hours in class meetings (or the online equivalent), as well as 90 hours doing homework and assignments—a total of 135 hours in any given session (A, B, or C). This translates to 9 hours per week for classes that meet over a 15 week-semester. For 7.5-week classes, the workload doubles to 18 hours per week engaging in online activities, reading, doing other homework, completing assignments or assessments, and studying. As you register for courses, keep this 135-hour standard in mind because during some semesters your work and/or family commitments may prevent you from taking a full load of classes.
 
 
 
@@ -241,6 +260,9 @@ Please note: the course instructor may from time to time adjust assigned reading
 ### Unit 6 - Logistic Regression 
 
 ### Unit 7 - Propensity Score Matching 
+
+## Additional Information
+
 
 
 
